@@ -1,6 +1,9 @@
-# spam_bot
+# Spambot
 This is a spam bot created to use only on Windows
-You can run this bot on Linux using wine.
+It's also possible running in Linux using wine.
+
+# Running on windows
+Double click and follow the instructions.
 
 ## Running on Linux
 ```
@@ -10,3 +13,4 @@ or
 
 wine cscript spam.vbs
 ```
+Note: There is a better option for Linux. Spambot written in python: https://github.com/user-cube/spambot
