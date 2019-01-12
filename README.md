@@ -1,5 +1,6 @@
 # Spambot
-This is a spam bot created to use only on Windows
+This is a spam bot created to use only on Windows.
+
 It's also possible running in Linux using wine.
 
 # Running on windows
